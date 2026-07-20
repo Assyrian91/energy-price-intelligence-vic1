@@ -1,5 +1,12 @@
 # Energy Price Intelligence — VIC1 (Victoria, Australia)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge&logo=xgboost&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 A production-style data pipeline forecasting and monitoring electricity spot price risk for Victoria's National Electricity Market (NEM) region, built end-to-end: Supabase → SQL analysis → feature engineering → XGBoost → Power BI → Docker.
 
 **Author:** Khoshaba Odeesho | Assyrian AI | Melbourne, Australia
