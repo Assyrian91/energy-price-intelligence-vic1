@@ -7,6 +7,8 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+🔗 **[Live Dashboard](https://energy-price-intelligence-vic1-by-khoshaba.streamlit.app/)**
+
 A production-style data pipeline forecasting and monitoring electricity spot price risk for Victoria's National Electricity Market (NEM) region, built end-to-end: Supabase → SQL analysis → feature engineering → XGBoost → Power BI → Docker.
 
 **Author:** Khoshaba Odeesho | Assyrian AI | Melbourne, Australia
