@@ -20,7 +20,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-CSV_PATH = "energy_price_demand_merged.csv"
+CSV_PATH = "../data/energy_price_demand_merged.csv"
 
 def get_connection():
     return psycopg2.connect(
